@@ -1,0 +1,37 @@
+body {
+  font-family: 'Open Sans Condensed', sans-serif;
+  background: url('images/background.jpg');
+  background-size: cover;
+}
+
+.hand-logo {
+  position: absolute;
+  bottom: 0;
+}
+
+.half-screen-right {
+  position: absolute;
+  width: 50%;
+  right: 2em;
+}
+
+.navbar {
+  background: #DAD3FA;
+  padding: 10px;
+  border-radius: 10px;
+  margin: 40px 0 40px 0;
+}
+
+.content {
+  background: #DAD3FA;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+h1 {
+  margin: 0;
+}
+
+li {
+  display: inline-block;
+}
